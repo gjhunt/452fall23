@@ -1,4 +1,4 @@
-# MATH 452 Fall 2022
+# MATH 452 Fall 2023
 
 ## syllabus and outline
 
