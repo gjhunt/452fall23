@@ -12,7 +12,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 2|T 9-5 | normal statistics |  C+B 5.2 (Thrm. 5.2.11 to end), 5.3 | --- | [notes](lns/lec2.pdf)| [vid](https://youtu.be/LuSjNvAnwi4?feature=shared)|  | 
 3|R 9-7 | sufficiency | C+B 6.1,6.2 (through Ex. 6.2.10) | [SP2](sp/sp2.pdf)| [notes](lns/lec3.pdf)| [vid](https://youtu.be/xLvJhUdabEE)| [QP 2](qp/qp2.pdf) due Sept 14 | 
 4|T 9-12 | MOMs | C+B 6.2 (through Defn 6.2.16), 7.1, 7.2 (through Ex. 7.2.2) | --- | [notes](lns/lec4.pdf)| [vid](https://youtu.be/xLCuGIyuJTM) | --- | 
-5|R 9-14 | MLEs | C+B 7.2.2 (through Ex. 7.2.13) | [SP3](sp/sp3.pdf) | [notes](lns/lec5.pdf)| [vid]()| [QP 3](qp/qp3.pdf) due Sept 21 | 
+5|R 9-14 | MLEs | C+B 7.2.2 (through Ex. 7.2.13) | [SP3](sp/sp3.pdf) | [notes](lns/lec5.pdf) [F22 Notes](lns/lec5_22.pdf)| [vid](https://youtu.be/lLMaN14osVM)| [QP 3](qp/qp3.pdf) due Sept 21 | 
 6|T 9-19 | more MLEs | C+B 7.2.2 (through Ex. 7.2.13) | --- | [notes](lns/lec6.pdf) | [vid]() | --- |
 7|R 9-21 | evaluation | C+B 7.3.1 (through Ex. 7.3.4), 7.3.2 (through Defn 7.3.7)  | [SP4](sp/sp4.pdf) | [notes](lns/lec7.pdf)| [vid]()| [QP 4](qp/qp4.pdf) due Sept 28 | 
 8|T 9-26 | UMVUEs |  --- | --- | [notes](lns/lec8.pdf)| [vid]()| --- |
