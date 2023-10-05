@@ -19,7 +19,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 8|T 9-26 | UMVUEs |  --- | --- | [notes](lns/lec8.pdf)| [vid](https://youtu.be/ejCTwFNsNls)| --- |
 9|R 9-28 | CRLB | 7.3.2 (all) | [SP5](sp/sp5.pdf)| [notes](lns/lec9.pdf)| [vid](https://youtu.be/yiUZRXUnTgQ)| [QP 5](qp/qp5.pdf) due Oct 5 | 
 . |T 10-3 | **midterm 1 (lectures 1-7)**  |
-10|R 10-5 | Rao-Blackwell and Lehmann-Scheffe | 7.3.3 (through Ex. 7.3.18) | [SP6](sp/sp6.pdf) | [notes](lns/lec10.pdf)| [vid]()| [QP 6](qp/qp6.pdf) due Oct 17 | 
+10|R 10-5 | Rao-Blackwell and Lehmann-Scheffe | 7.3.3 (through Ex. 7.3.18) | [SP6](sp/sp6.pdf) | [notes](lns/lec10.pdf)| [vid](https://youtu.be/BDPnwMXLRQg)| [QP 6](qp/qp6.pdf) due Oct 17 | 
 11|T 10-10 | inequalities | 7.3.3 (through Thrm 7.3.19) | --- | [notes](lns/lec11.pdf)| [vid]()| --- | 
 . |R 10-12 | fall break | 
 12 | T 10-17 | convergence | 5.5.1, 5.5.2 | [SP7](sp/sp7.pdf) | [notes](lns/lec12.pdf)| [vid]()| [QP7](qp/qp7.pdf) due Oct 24 | 
