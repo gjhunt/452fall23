@@ -20,9 +20,9 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 9|R 9-28 | CRLB | 7.3.2 (all) | [SP5](sp/sp5.pdf)| [notes](lns/lec9.pdf)| [vid](https://youtu.be/yiUZRXUnTgQ)| [QP 5](qp/qp5.pdf) due Oct 5 | 
 . |T 10-3 | **midterm 1 (lectures 1-7)**  |
 10|R 10-5 | Rao-Blackwell and Lehmann-Scheffe | 7.3.3 (through Ex. 7.3.18) | [SP6](sp/sp6.pdf) | [notes](lns/lec10.pdf)| [vid](https://youtu.be/BDPnwMXLRQg)| [QP 6](qp/qp6.pdf) due Oct 17 | 
-11|T 10-10 | inequalities | 7.3.3 (through Thrm 7.3.19) | --- | [notes](lns/lec11.pdf)| [vid]()| --- | 
+11|T 10-10 | inequalities | 7.3.3 (through Thrm 7.3.19) | --- | [notes](lns/lec11.pdf)| [vid](https://youtu.be/5jnn5yFUAF0)| --- | 
 . |R 10-12 | fall break | 
-12 | T 10-17 | convergence | 5.5.1, 5.5.2 | [SP7](sp/sp7.pdf) | [notes](lns/lec12.pdf)| [vid]()| [QP7](qp/qp7.pdf) due Oct 24 | 
+12 | T 10-17 | convergence | 5.5.1, 5.5.2 | [SP7](sp/sp7.pdf) | [notes](lns/lec12.pdf)| [vid](https://youtu.be/IbZWAMXcQhs)| [QP7](qp/qp7.pdf) due Oct 24 | 
 13| R 10-19 | more convergence |  5.5 (through Thrm 5.5.13), Thrm 5.5.17 | --- | [notes](lns/lec13.pdf)| [vid]() | --- | 
 14|T 10-24 | CLT | 5.5 (through Thrm 5.5.13), Thrm 5.5.17 | [SP8](sp/sp8.pdf) | [notes](lns/lec14.pdf)| [vid]() | [QP8](qp/qp8.pdf) due Oct 31 | 
 15|R 10-26 | delta method | Thrm 5.5.14 through Ex. 5.5.25  | --- | [notes](lns/lec15.pdf)| [vid]()| ---  | 
