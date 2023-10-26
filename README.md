@@ -25,7 +25,7 @@ No. | date | topics | reading             | suggested problems (SP) | notes | vi
 12 | T 10-17 | more convergence and WLLN | 5.5.1, 5.5.2 | ---       | [notes](lns/lec12.pdf)| [vid](https://youtu.be/IbZWAMXcQhs)       | [QP7](qp/qp7.pdf) due Oct 24 | 
 13| R 10-19 | SLLN and CLT              |  5.5 (through Thrm 5.5.13), Thrm 5.5.17 | [SP8](sp/sp8.pdf) | [notes](lns/lec13.pdf)| [vid](https://youtu.be/a6Noe_U2fyE) | --- | 
 14|T 10-24 | delta method               | 5.5 (through Thrm 5.5.13), Thrm 5.5.17 | [SP9](sp/sp9.pdf) | [notes](lns/lec14.pdf)| [vid](https://youtu.be/C-17-U7rgO0) | [QP8](qp/qp8.pdf) due Oct 31 | 
-15|R 10-26 | asymptotic efficiency      | Thrm 5.5.14 through Ex. 5.5.25          | --- | [notes](lns/lec15.pdf) | [vid]()| ---  | 
+15|R 10-26 | asymptotic efficiency      | Thrm 5.5.14 through Ex. 5.5.25          | --- | [notes](lns/lec15.pdf) | [vid](https://youtu.be/oDgfDtav0iY)| ---  | 
 16|T 10-31 | hypothesis testing         | 5.5.4 (through Ex. 5.5.27)      |  | [notes](lns/lec16.pdf) | [vid]()| [QP9](qp/qp9.pdf) due Nov 7 | 
 . |R 11-2 | power function              |  8.1, 8.3 (through Defn 8.3.6)  | --- | [notes](lns/lec17.pdf)| [vid]()|  | 
 . | T 11-7 | Election Day (no classes)  | | | |     | [QP10](qp/qp10.pdf) due Nov 16
