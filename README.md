@@ -27,10 +27,10 @@ No. | date | topics | reading             | suggested problems (SP) | notes | vi
 14|T 10-24 | delta method               | 5.5 (through Thrm 5.5.13), Thrm 5.5.17 | [SP9](sp/sp9.pdf) | [notes](lns/lec14.pdf)| [vid](https://youtu.be/C-17-U7rgO0) | [QP8](qp/qp8.pdf) due Oct 31 | 
 15|R 10-26 | asymptotic efficiency      | Thrm 5.5.14 through Ex. 5.5.25          | --- | [notes](lns/lec15.pdf) | [vid](https://youtu.be/oDgfDtav0iY)| ---  | 
 16|T 10-31 | LRT         | 5.5.4 (through Ex. 5.5.27)      |  | [notes](lns/lec16.pdf) | [vid](https://youtu.be/mW3lr-D1zYo)| [QP9](qp/qp9.pdf) due Nov 7 | 
-. |R 11-2 | power function              |  8.1, 8.3 (through Defn 8.3.6)  | --- | [notes](lns/lec17.pdf)| [vid]()|  | 
+. |R 11-2 | review              |  8.1, 8.3 (through Defn 8.3.6)  | --- | | |  | 
 . | T 11-7 | Election Day (no classes)  | | | |     | [QP10](qp/qp10.pdf) due Nov 16
 17|R 11-9 | **midterm 2 (lecture 8-15)**| | | | | |
-18|T 11-14 | LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec18.pdf)    | [vid]()|  | 
+18|T 11-14 | more LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec17.pdf)    | [vid](https://youtu.be/o7JDEPiR4FA)|  | 
 19|R 11-16 | Neyman-Pearson             |  8.3 (through Ex 8.3.7), 8.3.2 (through Ex. 8.3.15)  | ---  | [notes](lns/lec19.pdf)| [vid]() | [QP11](qp/qp11.pdf) due Nov 28 | 
 20|T 11-21 | Karlin-Rubin               | 8.3.2 (through Thrm 8.3.17)  | --- | [notes](lns/lec20.pdf)| [vid]() | ---  | 
 . | R 11-23 | Thanksgiving              | 
