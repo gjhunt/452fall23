@@ -29,12 +29,12 @@ No. | date | topics | reading             | suggested problems (SP) | notes | vi
 16|T 10-31 | LRT         | 5.5.4 (through Ex. 5.5.27)      |  | [notes](lns/lec16.pdf) | [vid](https://youtu.be/mW3lr-D1zYo)| [QP9](qp/qp9.pdf) due Nov 7 | 
 . |R 11-2 | review              |  8.1, 8.3 (through Defn 8.3.6)  | --- | | |  | 
 . | T 11-7 | Election Day (no classes)  | | | |     | [QP10](qp/qp10.pdf) due Nov 16
-17|R 11-9 | **midterm 2 (lecture 8-15)**| | | | | |
-18|T 11-14 | more LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec17.pdf)    | [vid](https://youtu.be/o7JDEPiR4FA)|  | 
-19|R 11-16 | Neyman-Pearson             |  8.3 (through Ex 8.3.7), 8.3.2 (through Ex. 8.3.15)  | ---  | [notes](lns/lec19.pdf)| [vid]() | [QP11](qp/qp11.pdf) due Nov 28 | 
-20|T 11-21 | Karlin-Rubin               | 8.3.2 (through Thrm 8.3.17)  | --- | [notes](lns/lec20.pdf)| [vid]() | ---  | 
+.|R 11-9 | **midterm 2 (lecture 8-15)**| | | | | |
+17|T 11-14 | more LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec17.pdf)    | [vid](https://youtu.be/o7JDEPiR4FA)|  | 
+18|R 11-16 | Neyman-Pearson and Karlin-Rubin          |  8.3 (through Ex 8.3.7), 8.3.2 (through Ex. 8.3.15)  | ---  | [notes](lns/lec18.pdf)| [vid](https://youtu.be/hN9ZbVigPkk) | [QP11](qp/qp11.pdf) due Nov 28 | 
+19|T 11-21 | Thanksgiving Treat               | 8.3.2 (through Thrm 8.3.17)  | --- | [notes](lns/lec19.pdf)| [vid](https://youtu.be/atDA98KQ-3M) | ---  | 
 . | R 11-23 | Thanksgiving              | 
-21|T 11-28 | interval estimation        |  8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1 |       | [notes](lns/lec21.pdf)| [vid]() |    | 
-22|R 11-30 | pivoting | 7.2.3             | [SP11](sp/sp11.pdf) |[notes](lns/lec22.pdf)| [vid]() | [QP12](qp/qp12.pdf) Due Dec 7 | 
-23|T 12-5 | p-values and bayesian inference  |  7.2.3 | ---         | [notes](lns/lec23.pdf)| [vid]()   | --- | 
+20|T 11-28 | interval estimation        |  8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1 |       | [notes](lns/lec20.pdf)| [vid]() |    | 
+21|R 11-30 | pivoting | 7.2.3             | [SP11](sp/sp11.pdf) |[notes](lns/lec21.pdf)| [vid]() | [QP12](qp/qp12.pdf) Due Dec 7 | 
+22|T 12-5 | p-values and bayesian inference  |  7.2.3 | ---         | [notes](lns/lec22.pdf)| [vid]()   | --- | 
 
